@@ -1,2 +1,2 @@
 say-hello:
-	console.log('Hello, world!')
+	@node -e "console.log('Hello, world!')"
